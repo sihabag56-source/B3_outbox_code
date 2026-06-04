@@ -123,9 +123,3 @@ history-calendar/
   ├── Gemini 3 Flash (AI 위인 챗봇 문맥 생성, 1인칭 독립일기 작성, 뉴스레터 텍스트 분석)
   └── Veo / Lyria 3 (커스텀 다큐멘터리 영상/오디오 에셋 렌더링)
 
-
----
-
-### 📎 프로젝트 SLIDE
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d9ef71c-f636-45d7-a971-9a0cfa7f479b" />
-
