@@ -122,4 +122,30 @@ history-calendar/
 [Generative AI Services]
   ├── Gemini 3 Flash (AI 위인 챗봇 문맥 생성, 1인칭 독립일기 작성, 뉴스레터 텍스트 분석)
   └── Veo / Lyria 3 (커스텀 다큐멘터리 영상/오디오 에셋 렌더링)
+```
 
+---
+
+### 🖥 기능 구현 PPT
+<img width="1920" height="1080" alt="슬라이드1" src="https://github.com/user-attachments/assets/182d346c-09eb-4955-aadc-0c02bea21ae2" />
+<img width="1920" height="1080" alt="슬라이드2" src="https://github.com/user-attachments/assets/0ae0f1f0-158b-40d7-810e-277b580cc518" />
+<img width="1920" height="1080" alt="슬라이드3" src="https://github.com/user-attachments/assets/57e000b7-4e1f-4858-be5b-1f01c1ae6faa" />
+<img width="1920" height="1080" alt="슬라이드4" src="https://github.com/user-attachments/assets/d159d4ea-062d-47ad-8805-5c97dbccf5be" />
+<img width="1920" height="1080" alt="슬라이드5" src="https://github.com/user-attachments/assets/bcf876a0-a4d5-44e4-850c-4445cdd95214" />
+<img width="1920" height="1080" alt="슬라이드6" src="https://github.com/user-attachments/assets/7b5fc88c-7f73-404a-bb85-2a36fb28ad61" />
+<img width="1920" height="1080" alt="슬라이드7" src="https://github.com/user-attachments/assets/4eb5ce14-6603-49b4-9859-2f53301d5bb7" />
+<img width="1920" height="1080" alt="슬라이드8" src="https://github.com/user-attachments/assets/c0a18479-cddb-4b2e-8363-34c9103cd3bc" />
+<img width="1920" height="1080" alt="슬라이드9" src="https://github.com/user-attachments/assets/d758b6ca-18fd-4ff9-9404-24cca42be301" />
+<img width="1920" height="1080" alt="슬라이드10" src="https://github.com/user-attachments/assets/f34127f0-814e-4bd2-9bc0-11cf01edfd40" />
+<img width="1920" height="1080" alt="슬라이드11" src="https://github.com/user-attachments/assets/4ad314c6-3b20-4757-82ec-5079cba0311b" />
+<img width="1920" height="1080" alt="슬라이드12" src="https://github.com/user-attachments/assets/072cffa5-80e6-49a9-98d5-4d9f7b85e885" />
+<img width="1920" height="1080" alt="슬라이드13" src="https://github.com/user-attachments/assets/f58af50e-4c61-48e5-ba38-6fd3e9a0ca28" />
+<img width="1920" height="1080" alt="슬라이드14" src="https://github.com/user-attachments/assets/63a7d965-c9f8-4abc-b6ff-099e53c2d30f" />
+<img width="1920" height="1080" alt="슬라이드15" src="https://github.com/user-attachments/assets/011d7a31-68b7-4e98-ad8b-36413edafc12" />
+<img width="1920" height="1080" alt="슬라이드16" src="https://github.com/user-attachments/assets/c2bb1ca6-4275-424d-947c-a4a782a07c93" />
+<img width="1920" height="1080" alt="슬라이드17" src="https://github.com/user-attachments/assets/626aba3d-fff1-4713-8cb0-d33e0a307483" />
+<img width="1920" height="1080" alt="슬라이드18" src="https://github.com/user-attachments/assets/9ef51db7-bb6c-477b-aed7-21a435cd3e35" />
+<img width="1920" height="1080" alt="슬라이드19" src="https://github.com/user-attachments/assets/6a803f37-ddc1-43b8-a4f0-81e0286cb241" />
+<img width="1920" height="1080" alt="슬라이드20" src="https://github.com/user-attachments/assets/adbb65d2-3161-4d0c-a4f9-aef33ba936ef" />
+<img width="1920" height="1080" alt="슬라이드21" src="https://github.com/user-attachments/assets/8e816c11-3023-4e55-a03a-cbf2a13c507d" />
+<img width="1920" height="1080" alt="슬라이드22" src="https://github.com/user-attachments/assets/d5068cb8-eba2-4989-86b4-0f59f4539b1c" />
